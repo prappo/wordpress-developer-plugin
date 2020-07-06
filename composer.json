@@ -1,0 +1,13 @@
+{
+    "name": "prince/piper",
+    "authors": [
+        {
+            "name": "Prappo Prince",
+            "email": "prappo.prince@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.1",
+        "barryvdh/laravel-debugbar": "^3.3"
+    }
+}
